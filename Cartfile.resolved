@@ -1,6 +1,6 @@
 github "CocoaLumberjack/CocoaLumberjack" "3.6.0"
 github "behrang/YamlSwift" "3.4.3"
-github "lexrus/MMDB-Swift" "0.3.0"
+github "ilqprs/MMDB-Swift" "0.3.0"
 github "robbiehanson/CocoaAsyncSocket" "7.6.3"
 github "zhuhaow/NEKit" "0.14.0"
 github "zhuhaow/Resolver" "0.2.0"
